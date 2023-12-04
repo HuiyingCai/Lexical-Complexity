@@ -1,0 +1,16 @@
+Type the following commands in Terminal to install the packages needed:
+
+1. SpaCy (https://spacy.io/usage)
+
+pip install -U pip setuptools wheel
+pip install -U spacy
+python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_lg
+python -m spacy download en_core_web_trf
+python -m spacy download es_core_news_sm
+python -m spacy download es_dep_news_trf
+
+2. pylats, taaled, pandas, numpy, openpxl
+
+pip install XXX
+
